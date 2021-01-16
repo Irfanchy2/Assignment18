@@ -1,0 +1,40 @@
+*{
+    margin: 15px auto;
+    padding: 0px;
+}
+
+.box1{
+    background: #34495E;
+   
+}
+.box2{
+    background: #9b59b6;
+}
+.box3{
+    background: #2C3E50;
+    margin: -15px;
+}
+.g{
+    color:#D35400;
+}
+#another-id{
+    color: #3477C0;
+}
+p{
+    color: #ffffff;
+}
+.cc li{
+    list-style: none;
+}
+.cc li a{
+    text-decoration: none;
+}
+.cc li:nth-child(1) a{
+    color: #1B855D;
+}
+.cc li:nth-child(2) a{
+    color: #EDBF2B;
+}
+.cc li:nth-child(3) a{
+    color: #95A5A6;
+}
